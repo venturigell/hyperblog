@@ -3,3 +3,5 @@ Ete archivo es para el curso de git, vamos bien!
 Buscando nuevos retos
 
 Curso número 3 en platzi
+
+Ramiro tiene 31 años! y trabaja en inbursa como Jefe de desarrollo de sistemas 
